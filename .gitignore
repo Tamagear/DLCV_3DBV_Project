@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 # AI Models
 *.caffemodel
+
+# Plugins that are too big
+**/cudnn_67_7.dll
